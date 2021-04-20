@@ -1,0 +1,76 @@
+nav {
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 1.3rem;
+  color: white;
+}
+
+/* .nav-main */
+.fa-bars {
+  margin-left: 25px;
+}
+
+.nav-youtube {
+  margin-left: 25px;
+  font-family: 'Pragati Narrow';
+  font-weight: bold;
+  display: inline-flex;
+  align-items: center;
+}
+
+.fa-youtube {
+  color: #f81701;
+  font-size: 1.5rem;
+  margin-right: 2px;
+}
+
+/* .search-bar */
+input {
+  font-size: 1rem;
+  margin-left: 70px;
+  padding: 3px 12px;
+  background: #121212;
+  height: 24px;
+  width: 337px;
+  border: 1px solid #323232;
+}
+
+button {
+  background: #323232;
+  width: 65px;
+  height: 32px;
+  border-radius: 0 2px 2px 0;
+}
+
+.fa-search {
+  color: #686868;
+  font-size: 1.1rem;
+}
+
+.fa-microphone {
+  margin-left: 20px;
+}
+
+/* .nav-other */
+.fa-video {
+  margin-left: 25px;
+}
+
+.fa-th {
+  margin-left: 25px;
+}
+
+.fa-bell {
+  margin-left: 25px;
+}
+
+.user {
+  font-size: 1.2rem;
+  margin: 0 28px 0 32px;
+  padding: 5px 10px;
+  background: #f5511e;
+  border-radius: 25px;
+}

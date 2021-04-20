@@ -2,11 +2,12 @@
   margin: 0;
   padding: 0;
   border: none;
+  font-family: 'Roboto', 'Arial', sans-serif;
 }
 
 /* Navigation bar */
 .nav {
-  background: orange;
+  background: #202020;
   display: block;
   width: 100%;
   height: 56px;
