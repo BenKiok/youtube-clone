@@ -1,0 +1,25 @@
+.thumbnail {
+  display: flex;
+  padding: 8px 25px 0 25px;
+}
+
+.thumbnail img {
+  width: 168px;
+  height: 94px;
+}
+
+.thumbnail div {
+  margin-left: 8px;
+  display: flex;
+  flex-direction: column;
+}
+
+.thumbnail h3 {
+  color: #fff;
+  font-size: 1.2rem;
+}
+
+.thumbnail h4 {
+  color: #909090;
+  margin-top: -10px;
+}

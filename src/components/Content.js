@@ -12,6 +12,10 @@ function Content() {
       ></iframe>
       <div className='about'>
         <div className='title'>
+          <div className='hashtags above-title'>
+            <a href='#'>#eyecandy</a>
+            <a href='#'>#dance</a>
+          </div>
           <h2>E Y E C A N D Y</h2>
           <h3>69,002,692 views • July 11, 2019</h3>
         </div>
@@ -38,7 +42,7 @@ function Content() {
       <div className='more-info'>
           <span className='profile'/>
           <div className='description'>
-            <h3>tokyoko<i className='fas fa-check-circle'/></h3>
+            <h3>tokyoko</h3>
             <h4>69K subscribers</h4>
             <div className='hashtags'>
               <a href='#'>#eyecandy</a>

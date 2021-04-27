@@ -1,0 +1,25 @@
+.suggestions {
+  padding: 20px 0;
+}
+
+.filters {
+  display: flex;
+  color: #fff;
+  margin: 0 25px 18px 25px;
+}
+
+.filters div {
+  margin-right: 8px;
+  padding: 0 12px;
+  background: #303030;
+  border: 1px solid #3a3a3a;
+  border-radius: 25px;
+  font-size: 1.15rem;
+  cursor: pointer;
+}
+
+.filters .active {
+  background: #fff;
+  color: #000;
+  border: none;
+}

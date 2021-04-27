@@ -53,15 +53,14 @@ iframe {
 }
 
 .more-info {
+  margin: 0 25px;
   padding: 15px 0;
-  width: 100%;
   display: flex;
   justify-content: space-between;
   border-bottom: 1px solid #303030;
 }
 
 .profile {
-  margin-left: 25px;
   width: 48px;
   height: 48px;
   background: #ffa500;
@@ -75,12 +74,6 @@ iframe {
 .description h3 {
   color: #fff;
   font-size: 1.15rem;
-}
-
-.fa-check-circle {
-  color: #909090;
-  margin-left: 4px;
-  font-size: 0.7rem;
 }
 
 .description h4 {
@@ -99,6 +92,14 @@ iframe {
   margin-right: 5px;
 }
 
+.above-title {
+  margin: 0;
+}
+
+.above-title a {
+  font-size: 1rem;
+}
+
 .description p {
   margin: 10px 0 15px 0;
   color: #fff;
@@ -106,7 +107,7 @@ iframe {
 }
 
 .subscribe {
-  margin: 6px 30px 0 auto;
+  margin: 6px 5px 0 auto;
   width: 105px;
   height: 36px;
   font-size: 1.1rem;
